@@ -21,11 +21,19 @@
 ## 사전 배포 문항 수정 사항
 
 ```
-Day2 
-3)
+Day2 문항
+2번 ) 
+단계 2-6 문제 수정: 
+        오전/오후에 따라 Avg를 구분하여 Mann-Whiteny U 검정을 하라. 검정 결과 검정통계량을 E값으로 한다.
+3번 ) 
 단계 3-3: prob4_test -> prob3_test
 단계 3-4: prob4_train -> prob3_train, prob4_test -> prob3_test
 문제 정답: 76.139
 
+4번)
+단계 4-5: learing_rate_init->learning_rate_init
+
+5번)
 단계 5-4: 비복원 추출 -> bootstrapping
+
 ```
